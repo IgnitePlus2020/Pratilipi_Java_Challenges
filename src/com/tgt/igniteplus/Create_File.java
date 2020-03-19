@@ -14,7 +14,6 @@ public class Create_File {
             }
         } catch (IOException e) {
             System.out.println("An error occurred.");
-            e.printStackTrace();
         }
     }
 }
