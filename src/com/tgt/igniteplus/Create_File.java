@@ -1,7 +1,6 @@
 package com.tgt.igniteplus;
 
-import java.io.File;
-import java.io.IOException;
+import java.io.*;
 
 public class Create_File {
     public static void main(String[] args) {
